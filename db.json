@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "slug": "home",
+      "id": "home",
+      "productImages": [
+        "https://sireprinting.com/frontend-theme/assets/images/Custom-Boxes-With-Logo-Banner-SirePrinting.webp",
+        "https://sireprinting.com/frontend-theme/assets/images/CBD-Packaging-Boxes-Banner-SirePrinting.webp",
+        "https://sireprinting.com/frontend-theme/assets/images/Custom-Stickers-Banner-SirePrinting.webp"
+      ],
+      "howWork": [
+        {
+          "gif": "https://s3.amazonaws.com/sireprinting.com/images/how-work.gif",
+          "text": "Sire Printing is a comprehensive services printing organization that offers high-grade by-products to a low price in the market. We provide businesses with custom printed boxes and custom packaging solutions that meet industry and product particular requirements, anything you want we can print and dispatch quickly and affordably. We are able to come across innovative ideas to produce boxes with fusion of internal fabrication & automation and are able to turn down setup cost for custom directions. We don't ask setup or Die charges to our clients for even short run demands. We love startup dealings and are prepared to assist in any way to become part of their victory. Feel Free to contact us at any time for more information and any query, we are here to assist you."
+        }
+      ],
+      "customPackaging": [
+        {
+          "slug": "cbd-packaging",
+          "productTitle": "CBD Packaging",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667384997cbd-package.webp"
+        },
+        {
+          "slug": "custom-retail-packaging",
+          "productTitle": "Custom Retail Packaging",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667384440retail-package.webp"
+        },
+        {
+          "slug": "rigid-boxes",
+          "productTitle": "Rigid Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385396Rigid-Packaging.webp"
+        },
+        {
+          "slug": "food-packaging",
+          "productTitle": "Food Packaging",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667386036Food-Packaging.webp"
+        },
+        {
+          "slug": "cosmetic-packaging-boxes",
+          "productTitle": "Cosmetic Packaging Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667386011Cosmetic-Boxes.webp"
+        },
+        {
+          "slug": "eco-friendly-packaging",
+          "productTitle": "Eco-Friendly Packaging",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385978Eco-Packaging.webp"
+        },
+        {
+          "slug": "woven-labels",
+          "productTitle": "Woven Labels",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385954Woven-Labels.webp"
+        },
+        {
+          "slug": "custom-hang-tags",
+          "productTitle": "Custom Hang Tags",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385932Custom-Tags.webp"
+        },
+        {
+          "slug": "woven-embroidered-patches",
+          "productTitle": "Woven Embroidered Patches",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385890Woven-Patches.webp"
+        },
+        {
+          "slug": "Christmac-boxes",
+          "productTitle": "Christmas Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385858Christmas-Boxes.webp"
+        },
+        {
+          "slug": "cardboard-boxes",
+          "productTitle": "Cardboard Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385823Cardboard-Boxes.webp"
+        }
+      ],
+      "customBox": [
+        {
+          "slug": "paper-brief-case",
+          "productTitle": "Paper Brief Case",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1599826214/paper-brief-case.jpg"
+        },
+        {
+          "slug": "4-corner-box",
+          "productTitle": "4 Corner Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600707115/4%20Corner%20Box.jpg"
+        },
+        {
+          "slug": "five-panel-hanger-box",
+          "productTitle": "Five Panel Hanger Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600711109/Five%20Panel%20Hanger%20Box.jpg"
+        },
+        {
+          "slug": "foot-lock-tray",
+          "productTitle": "Foot Lock Tray",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600711389/Foot%20Lock%20Tray.jpg"
+        },
+        {
+          "slug": "regular-slotted-container",
+          "productTitle": "Regular Slotted Container",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600720596/Regular%20Slotted%20Container.jpg"
+        },
+        {
+          "slug": "seal-end-style-boxes",
+          "productTitle": "Seal End Style Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600723551/Seal%20End%20Boxes.jpg"
+        },
+        {
+          "slug": "straight-tuck-box",
+          "productTitle": "Straight Tuck Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600728275/Straight%20Tuck%20Box.jpg"
+        },
+        {
+          "slug": "four-pack-bottle-carrier",
+          "productTitle": "Four Pack Bottle Carrier",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600714203/Four%20Pack%20Bottle%20Carrier.jpg"
+        }
+      ],
+         "hotSelling": [
+        {
+          "slug": "",
+          "productTitle": "Custom Medicine Packaging",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600175026/pillow-packaging-boxes.jpg"
+        },
+        {
+          "slug": "",
+          "productTitle": "Custom Pillow Packaging Box",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600175056/gift-packaging-boxes.jpg"
+        },
+        {
+          "slug": "",
+          "productTitle": "Gift Packaging Boxes",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600175099/soap-packaging-boxes.jpg"
+        },
+        {
+          "slug": "",
+          "productTitle": "Custom Medicine Packaging",
+          "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600175140/medicine-packaging-boxes.jpg"
+        },
+        {
+          "slug": "",
+          "productTitle": "Custom Hang Tags",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385932Custom-Tags.webp"
+        },
+        {
+          "slug": "",
+          "productTitle": "Woven Embroidered Patches",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385890Woven-Patches.webp"
+        },
+        {
+          "slug": "",
+          "productTitle": "Eco-Friendly Packaging",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385978Eco-Packaging.webp"
+        },
+        {
+          "slug": "",
+          "productTitle": "Rigid Boxes",
+          "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667385396Rigid-Packaging.webp"
+        }
+      ]
+    }
+  ]
+}
