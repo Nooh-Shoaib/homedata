@@ -3,17 +3,6 @@
     {
       "slug": "home",
       "id": "home",
-      "productImages": [
-        "https://sireprinting.com/frontend-theme/assets/images/Custom-Boxes-With-Logo-Banner-SirePrinting.webp",
-        "https://sireprinting.com/frontend-theme/assets/images/CBD-Packaging-Boxes-Banner-SirePrinting.webp",
-        "https://sireprinting.com/frontend-theme/assets/images/Custom-Stickers-Banner-SirePrinting.webp"
-      ],
-      "howWork": [
-        {
-          "gif": "https://s3.amazonaws.com/sireprinting.com/images/how-work.gif",
-          "text": "Sire Printing is a comprehensive services printing organization that offers high-grade by-products to a low price in the market. We provide businesses with custom printed boxes and custom packaging solutions that meet industry and product particular requirements, anything you want we can print and dispatch quickly and affordably. We are able to come across innovative ideas to produce boxes with fusion of internal fabrication & automation and are able to turn down setup cost for custom directions. We don't ask setup or Die charges to our clients for even short run demands. We love startup dealings and are prepared to assist in any way to become part of their victory. Feel Free to contact us at any time for more information and any query, we are here to assist you."
-        }
-      ],
       "customPackaging": [
         {
           "slug": "cbd-packaging",
@@ -113,7 +102,7 @@
           "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600714203/Four%20Pack%20Bottle%20Carrier.jpg"
         }
       ],
-         "hotSelling": [
+      "hotSelling": [
         {
           "slug": "",
           "productTitle": "Custom Medicine Packaging",
