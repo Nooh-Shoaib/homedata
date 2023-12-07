@@ -1,8 +1,8 @@
 {
   "images": [
     {
-      "slug": "home",
-      "id": "home",
+      "slug": "/",
+      "id": "/",
       "customPackaging": [
         {
           "slug": "cbd-packaging",
