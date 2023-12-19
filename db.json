@@ -3,6 +3,9 @@
     {
       "customPackaging": [
         {
+          "Title": "Custom Packaging By Industry"
+        },
+        {
           "slug": "cbd-packaging",
           "productTitle": "CBD Packaging",
           "productImage": "https://s3.amazonaws.com/sireprinting.com/categories/1667384997cbd-package.webp"
@@ -60,6 +63,9 @@
       ],
       "customBox": [
         {
+          "Title": "Custom Packaging By Industry"
+        },
+        {
           "slug": "paper-brief-case",
           "productTitle": "Paper Brief Case",
           "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1599826214/paper-brief-case.jpg"
@@ -101,6 +107,9 @@
         }
       ],
       "hotSelling": [
+        {
+          "Title": "Custom Packaging By Industry"
+        },
         {
           "slug": "",
           "productTitle": "Custom Medicine Packaging",
