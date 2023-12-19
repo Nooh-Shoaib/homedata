@@ -1,6 +1,26 @@
 {
   "images": [
     {
+    "advantages":[
+    {
+     "productTitle":"Free Graphics",
+      "productImage":"https://s3.amazonaws.com/sireprinting.com/images/perks/design-min.webp",
+     "productTitle":"Eco-Friendly",
+      "productImage":"https://s3.amazonaws.com/sireprinting.com/images/perks/eco-min.webp",
+     "productTitle":"Environmental Friendly Ink",
+      "productImage":"https://s3.amazonaws.com/sireprinting.com/images/perks/ink-min.webp",
+     "productTitle":"Short Run",
+      "productImage":"https://s3.amazonaws.com/sireprinting.com/images/perks/short-run-min.webp",
+     "productTitle":"Custom Size & Style",
+      "productImage":"https://s3.amazonaws.com/sireprinting.com/images/perks/size-min.webp",
+     "productTitle":"Competitive Price",
+      "productImage":"https://s3.amazonaws.com/sireprinting.com/images/perks/price-min.webp",
+     "productTitle":"Fast Turnaround",
+      "productImage":"https://s3.amazonaws.com/sireprinting.com/images/perks/time-min.webp",
+     "productTitle":"Free Delivery",
+      "productImage":"https://s3.amazonaws.com/sireprinting.com/images/perks/delivery-min.webp"
+    }
+      ],
       "customPackaging": [
         {
           "slug": "cbd-packaging",
